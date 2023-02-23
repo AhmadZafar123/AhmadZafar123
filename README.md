@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Zafar</h1>
 <h3 align="center">A passionate Data Analyst and CS Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on **Data Analytics**
 
