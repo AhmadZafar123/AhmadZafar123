@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/86/2a/8e/862a8e1ea47a19765ba8f06bb205ff69.png)](https://AhmedZafar.io)
+[![MasterHead](https://miro.medium.com/max/1984/1*dwLWrFLsyjzkLSlUUB40LQ.jpeg)](https://AhmedZafar.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Zafar</h1>
 <h3 align="center">A passionate Data Analyst and CS Student</h3>
